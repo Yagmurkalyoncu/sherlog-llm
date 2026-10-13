@@ -1,0 +1,12 @@
+{
+  "uyari_id": "U-0001",
+  "kaynak_ip": "10.0.0.23",
+  "zaman": "2026-10-10T14:03:05",
+  "skor": 0.94,
+  "model": "isolation_forest (ornek)",
+  "shap_nedenleri": [
+    {"oznitelik": "farkli_hedef_port_sayisi", "deger": 10, "etki": 0.41},
+    {"oznitelik": "ortalama_paket_boyutu", "deger": 60, "etki": 0.22},
+    {"oznitelik": "ortalama_baglanti_suresi_ms", "deger": 1, "etki": 0.17}
+  ]
+}
